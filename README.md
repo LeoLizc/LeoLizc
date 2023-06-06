@@ -23,8 +23,8 @@ I'm ***Leonardo Lizcano Pinto***, also known as LeoLizc on GitHub. I'm a ninth-s
 
 ### Get in touch
 - 📧 Email: leolizcanop@gmail.com, ldlizcano@uninorte.edu.co
-- 💼 LinkedIn: [Leonardo Lizcano Pinto](https://www.linkedin.com/in/leonardo-lizcano-pinto0220/)
-- 💻 HackerRank: [ldlizcano](https://www.hackerrank.com/ldlizcano?hr_r=1)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lizcano-pinto0220/)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ldlizcano?hr_r=1)
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
 
