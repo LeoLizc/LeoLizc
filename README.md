@@ -22,9 +22,10 @@ I'm ***Leonardo Lizcano Pinto***, also known as LeoLizc on GitHub. I'm a ninth-s
   - ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)    ![Racket](https://img.shields.io/badge/-Racket-800000?style=flat-square&logo=racket&logoColor=white)    ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)    ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)    ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)    ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)    ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
 ### Get in touch
-- 📧 Email: leolizcanop@gmail.com, ldlizcano@uninorte.edu.co
+- 📧 Email: [leolizcanop@gmail.com](mailto:leolizcanop@gmail.com), [ldlizcano@uninorte.edu.co](mailto:ldlizcano@uninorte.edu.co)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lizcano-pinto0220/)
 - [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ldlizcano?hr_r=1)
+
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
 
