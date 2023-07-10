@@ -25,7 +25,7 @@ I'm ***Leonardo Lizcano Pinto***, also known as LeoLizc on GitHub. I'm a ninth-s
 ![LeoLizc's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoLizc&show_icons=true&theme=radical)
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLizc&layout=compact&theme=radical)](https://github.com/LeoLizc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=leolizc&layout=compact&langs_count=10&theme=radical)](https://github.com/LeoLizc)
 
 ### Get in touch
 - 📧 Email: [leolizcanop@gmail.com](mailto:leolizcanop@gmail.com), [ldlizcano@uninorte.edu.co](mailto:ldlizcano@uninorte.edu.co)
