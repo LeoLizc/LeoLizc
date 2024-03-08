@@ -3,7 +3,6 @@
 I'm ***Leonardo David Lizcano Pinto***, also known as LeoLizc on GitHub. I'm a Systems Engineer graduated at Universidad del Norte, passionate about augmented and mixed reality, video games, and artificial intelligence. I enjoy working with technologies such as Python, TypeScript, and C#, and I love participating in coding marathons.
 
 ### What I do 🎓🏆📚💼💡
-- 🎓 Currently a student at Universidad del Norte.
 - 🏆 Winner of internal coding marathons at the university.
 - 📚 Working on an article on operator precedence parsing in the field of compilers.
 - 💼 Experience as a backend development tutor in MinTic.
